@@ -1,0 +1,46 @@
+══════════════════════════════════════════════════
+           ESSAY INSIGHT ANALYSIS
+══════════════════════════════════════════════════
+
+BASIC STATISTICS
+   Words: 153
+   Sentences: 12
+   Avg sentence length: 12.8 words
+   [!] Too short - aim for 250-650 words
+
+VOCABULARY ANALYSIS
+   Unique words: 92
+   Vocabulary richness: 60%
+   [OK] No overused words detected
+
+SENTENCE VARIETY
+   Sentences starting with 'I': 9 (75%)
+   [!] Too many sentences start with 'I'
+   Try: When, After, Although, The, My, During...
+
+CLICHE DETECTOR
+   [!] Found 5 cliche(s):
+      - "ever since i was young"
+      - "passionate about"
+      - "made me who i am"
+      - "taught me the importance"
+      - "at the end of the day"
+
+SHOW VS TELL
+   'Tell' phrases (I am/feel/think): 11
+   'Show' verbs (action words): 1
+   Show ratio: 8%
+   [!] Try showing through actions, not telling feelings
+
+OPENING SENTENCE IDEAS
+   (Markov-generated - use for inspiration only)
+   1. Beneath the hum of words.
+   2. Three weeks into summer, everything I found its strength.
+   3. Standing at the weight of antiseptic and so did my sanctuary, my
+   4. Failure taught me completely.
+   5. Walking into summer, everything I forgot every difficult moment.
+
+══════════════════════════════════════════════════
+Remember: This tool provides suggestions, not rules.
+Your unique voice matters most!
+══════════════════════════════════════════════════
